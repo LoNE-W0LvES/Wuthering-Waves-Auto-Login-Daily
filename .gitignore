@@ -40,8 +40,6 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# Tesseract bundle (too large for git - provide in releases)
-tesseract_bundle/
 
 # Temporary files
 *.tmp
