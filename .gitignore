@@ -5,9 +5,11 @@ build/
 dist/
 WUWATracker_v*/
 installer_output/
-*.exe
-*.zip
-*.dll
+/*.exe
+/*.zip
+/*.dll
+WUWATracker.exe
+WUWALuniteAutoLogin_Setup*.exe
 
 # Runtime user data
 ww_launcher_config.json
@@ -40,6 +42,7 @@ ENV/
 Thumbs.db
 desktop.ini
 
+# Tesseract bundle will be uploaded to git
 
 # Temporary files
 *.tmp
