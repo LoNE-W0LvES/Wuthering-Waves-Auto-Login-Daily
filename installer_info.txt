@@ -1,0 +1,68 @@
+═══════════════════════════════════════════════════════════════
+  Wuthering Waves Lunite Auto-Login v2.0.0
+═══════════════════════════════════════════════════════════════
+
+Never miss your daily Lunite subscription rewards!
+
+This application automatically logs into Wuthering Waves daily
+to collect your Lunite subscription Astrite rewards before the
+daily reset.
+
+
+WHAT IT DOES:
+─────────────────────────────────────────────────────────────
+• Automatically launches the game at your specified time
+• Detects and clicks the login screen using OCR technology
+• Tracks playtime to ensure you stay logged in
+• Handles game updates and patches automatically
+• Runs quietly in the system tray
+• Resets daily to track the next day's progress
+
+
+PERFECT FOR:
+─────────────────────────────────────────────────────────────
+• Lunite subscription holders who don't want to miss rewards
+• Busy players who might forget to login daily
+• Anyone who wants automated daily login
+
+
+REQUIREMENTS:
+─────────────────────────────────────────────────────────────
+• Windows 10/11 (64-bit)
+• Wuthering Waves game installed
+• Active Lunite subscription (for best use)
+
+
+WHAT YOU'LL NEED TO DO:
+─────────────────────────────────────────────────────────────
+1. Install the application (this installer)
+2. Select your Wuthering Waves game location
+3. Configure auto-launch time (recommended: 11:50 PM)
+4. Let it run in the background
+5. Never miss your daily rewards again!
+
+
+INSTALLATION SIZE:
+─────────────────────────────────────────────────────────────
+Approximately 150 MB (includes OCR engine and dependencies)
+
+
+IMPORTANT NOTES:
+─────────────────────────────────────────────────────────────
+• The app requires administrator privileges to launch the game
+• Keep the app running in the system tray for automation
+• You can enable "Launch at Windows startup" for convenience
+• Your game path will be saved automatically during install
+
+
+SUPPORT:
+─────────────────────────────────────────────────────────────
+If you encounter any issues, please visit:
+https://github.com/yourusername/wuwa-lunite-autologin/issues
+
+
+═══════════════════════════════════════════════════════════════
+© 2025 LoNE WoLvES - All Rights Reserved
+═══════════════════════════════════════════════════════════════
+
+Click Next to continue with the installation.

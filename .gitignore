@@ -1,0 +1,49 @@
+# Wuthering Waves Lunite Auto-Login - .gitignore
+
+# Build outputs
+build/
+dist/
+WUWATracker_v*/
+installer_output/
+*.exe
+*.zip
+*.dll
+
+# Runtime user data
+ww_launcher_config.json
+ww_launcher_tracking.json
+debug_screenshot.png
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tesseract bundle (too large for git - provide in releases)
+tesseract_bundle/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak

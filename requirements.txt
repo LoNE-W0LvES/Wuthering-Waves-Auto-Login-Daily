@@ -1,0 +1,22 @@
+# Wuthering Waves Lunite Auto-Login - Requirements
+# Python 3.8+ required
+
+# GUI Framework
+PySide6>=6.5.0
+
+# System Process Management
+psutil>=5.9.0
+
+# Image Processing & Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Windows System Integration
+pywin32>=306
+
+# OCR (Optical Character Recognition)
+pytesseract>=0.3.10
+
+# Build Tool (Optional - only needed for building executable)
+# nuitka>=1.8.0
